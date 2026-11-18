@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">CRAFT project mark</title>
+<desc id="desc">A navy C surrounding a golden dot offset slightly to the right on a pale blue background.</desc>
+<rect width="256" height="256" rx="48" fill="#f9faff"/>
+<path d="M198 48h-70a80 80 0 1 0 0 160h70v-38h-70a42 42 0 1 1 0-84h70Z" fill="#24366f"/>
+<circle cx="140" cy="128" r="20" fill="#efb63b"/>
+</svg>

@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "craft-eda-core"
+version = "0.1.0"
+description = "Portable evidence and feedback components from CRAFT, an agentic EDA research framework."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {file = "LICENSE"}
+authors = [{name = "CRAFT contributors"}]
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.scripts]
+craft-demo = "craft_core.demo:main"
+
+[project.urls]
+Repository = "https://github.com/Craft2026-11/craft-project"
+Issues = "https://github.com/Craft2026-11/craft-project/issues"
+Website = "https://craft2026-11.github.io/craft/"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

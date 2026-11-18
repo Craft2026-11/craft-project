@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">CRAFT — Evidence into engineering</title>
+<desc id="desc">CRAFT agentic EDA research. Observe, predict, intervene and verify. A navy C with a golden dot offset slightly to the right on a pale blue background.</desc>
+<rect x="1" y="1" width="1198" height="358" rx="22" fill="#f9faff" stroke="#dce4f3" stroke-width="2"/>
+<path d="M780 1h397a22 22 0 0 1 22 22v314a22 22 0 0 1-22 22H780Z" fill="#edf3ff"/>
+<path d="M62 57h32" stroke="#efb63b" stroke-width="4"/>
+<text x="108" y="62" fill="#5b6886" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2.8">AGENTIC EDA / PORTABLE CORE</text>
+<text x="56" y="165" fill="#24366f" font-family="Arial,Helvetica,sans-serif" font-size="96" font-weight="700" letter-spacing="-5">CRAFT</text>
+<text x="62" y="212" fill="#24366f" font-family="Georgia,serif" font-size="30">Evidence into engineering.</text>
+<text x="63" y="251" fill="#5b6886" font-family="Arial,Helvetica,sans-serif" font-size="16">Cross-stage reasoning. Engineering actions. Verified feedback.</text>
+<path d="M63 280h615" stroke="#dce4f3"/>
+<text x="63" y="315" fill="#5b6886" font-family="monospace" font-size="12" letter-spacing="1">OBSERVE → PREDICT → INTERVENE → VERIFY</text>
+<svg x="863" y="64" width="232" height="232" viewBox="0 0 256 256"><rect width="256" height="256" rx="48" fill="#f9faff"/>
+<path d="M198 48h-70a80 80 0 1 0 0 160h70v-38h-70a42 42 0 1 1 0-84h70Z" fill="#24366f"/>
+<circle cx="140" cy="128" r="20" fill="#efb63b"/></svg>
+</svg>

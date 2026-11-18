@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="300" viewBox="0 0 1080 300" role="img" aria-labelledby="title desc">
+<title id="title">CRAFT portable component workflow</title><desc id="desc">External observations and actions are committed before an external execution. The released evaluator scores supplied outcomes. Bounded skill edits remain candidates pending separate validation.</desc>
+<rect x="1" y="1" width="1078" height="298" rx="13" fill="#ffffff" stroke="#dce4f3"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="28" y="32" font-size="12" fill="#5b6886" letter-spacing="2">RELEASED CORE + EXTERNAL INTEGRATION POINTS</text>
+<g fill="#f9faff" stroke="#dce4f3"><rect x="28" y="62" width="220" height="105" rx="8"/><rect x="564" y="62" width="220" height="105" rx="8"/></g>
+<g fill="#edf3ff" stroke="#c8d6f0"><rect x="296" y="62" width="220" height="105" rx="8"/><rect x="832" y="62" width="220" height="105" rx="8"/><rect x="296" y="205" width="756" height="65" rx="8"/></g>
+<g fill="#24366f" font-size="19"><text x="46" y="96">Observation + action</text><text x="582" y="96">EDA execution</text></g>
+<g fill="#5b6886" font-size="12"><text x="46" y="124">Your planner and evidence adapter</text><text x="46" y="145">External to this release</text><text x="582" y="124">Your tools and measured reports</text><text x="582" y="145">External to this release</text></g>
+<g fill="#24366f" font-size="19"><text x="314" y="96">Prediction record</text><text x="850" y="96">Independent scoring</text><text x="314" y="233">Bounded skill candidates</text></g>
+<g fill="#5b6886" font-size="12"><text x="314" y="124">Bind source, action and protocol</text><text x="314" y="145">Commit before launch receipt</text><text x="850" y="124">Physical response · QoR · risk</text><text x="850" y="145">Preserve missing evidence</text><text x="314" y="254">Typed edits and scope checks · validation and promotion remain external</text></g>
+<g stroke="#7591c5" stroke-width="2" fill="none"><path d="M252 114h35m-7-6 7 6-7 6M520 114h35m-7-6 7 6-7 6M788 114h35m-7-6 7 6-7 6M942 172v25m-6-7 6 7 6-7"/></g>
+<text x="28" y="239" font-family="monospace" font-size="11" fill="#5b6886">No bundled EDA or LLM runner.</text></g>
+</svg>
